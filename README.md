@@ -1,5 +1,5 @@
 ### Hi, I'm Nikos Kapraras 👋
-I'm a software engineer from Greece who loves to tinker with code! My coding journey kicked off in my early teens, and I've been hooked ever since, diving into all sorts of fun and challenging projects.
+I'm a Software Engineer from Greece who loves to tinker with code! My coding journey kicked off in my early teens, and I've been hooked ever since, diving into all sorts of fun and challenging projects.
 
 Currently working as a Software Engineer & Tech Lead at IBM
 
