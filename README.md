@@ -1,5 +1,6 @@
 ### Hi, I'm Nikos Kapraras 👋
-I'm a Software Engineer from Greece, currently living in Slovakia, who loves to tinker with code! My coding journey started in my early teens, and I've been hooked ever since, getting into all sorts of fun and challenging projects.
+I'm a Software Engineer from Greece, currently living in Slovakia, who loves to tinker with code!  
+My coding journey started in my early teens, and I've been hooked ever since, getting into all sorts of fun and challenging projects.
 
 Currently working as a Software Engineer & Tech Lead at IBM.
 
